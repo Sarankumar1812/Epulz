@@ -133,12 +133,12 @@ const Footer = () => {
               <ul className="footer-list">
                 <li className="footer-list-item">
                   <a href="#" className="footer-list-link">
-                    Dinesh R (IV)
+                    Sarankumar S (IV)
                   </a>
                 </li>
                 <li className="footer-list-item">
                   <a href="#" className="footer-list-link">
-                    Sarankumar S (IV)
+                    Dinesh R (IV)
                   </a>
                 </li>
                 <li className="footer-list-item">
